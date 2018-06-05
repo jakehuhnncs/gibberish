@@ -1,0 +1,9 @@
+language: php
+os: linux
+sudo: enabled
+
+php:
+  - 7.1
+
+jdk:
+  - oraclejdk8
