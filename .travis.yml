@@ -1,9 +1,9 @@
-language: php
+language: python
 os: linux
 sudo: enabled
 
 php:
-  - 7.1
+  - 2.7
 
 jdk:
   - oraclejdk8
